@@ -14,7 +14,7 @@ export default function Post() {
     <article className={style.post}>
       <header>
         <div className={style.author}>
-          <img src="./src/assets/foto1.png" alt="author "/>
+          <img src="https://cdn-icons-png.flaticon.com/512/7967/7967000.png    " alt="author "/>
           <div className={style.authorInfo}>
             <strong>Hector Grôppo Guedes Monteiro</strong>
             <strong>Cargos pretendidos</strong>
