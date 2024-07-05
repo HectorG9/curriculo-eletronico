@@ -32,8 +32,9 @@ export default function Post() {
         <h2>Link Repositórios</h2>
         <a href="https://github.com/HectorG9">Repositório1</a>
         <a href="https://github.com/hectorgroppo">Repositório2</a>
-        <h2>Ultimo Projeto</h2>
+        <h2>Ultimos Projetos</h2>
         <a href="https://projeto-netflix-copy.vercel.app/">Projeto Netflix, em andamento</a>
+        <a href="https://hbo-indol.vercel.app/">Projeto HBO</a>
       </div>
       <form action="">
         <h1>Experiência Profissional</h1>
