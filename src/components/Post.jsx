@@ -35,6 +35,7 @@ export default function Post() {
         <h2>Ultimos Projetos</h2>
         <a href="https://projeto-netflix-copy.vercel.app/">Projeto Netflix, em andamento</a>
         <a href="https://hbo-indol.vercel.app/">Projeto HBO</a>
+        <a href="https://eablog.vercel.app/index.html">Projeto Esporte Automobilismo</a>
       </div>
       <form action="">
         <h1>Experiência Profissional</h1>
